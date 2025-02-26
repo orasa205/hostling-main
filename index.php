@@ -88,7 +88,7 @@ include("condb.php");
           
          
             
-          <p class="ssa">สู้ๆนะ</p>
+          <p class="ssa">Hello</p>
           <p class="hh" > 55 </p>
           
           <p class="hh" >555</p>
